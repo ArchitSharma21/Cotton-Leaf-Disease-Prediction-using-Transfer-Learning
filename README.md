@@ -4,9 +4,9 @@ Dataset link - https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD
 
 Article for help - https://indianaiproduction.com/cotton-plant-disease-prediction-get-cure-app-using-artificial-intelligence/
 
-Transfer Learning done using Inception V3, Resnet 50, resnet152V2.
+Transfer Learning done using InceptionV3, ResNet 50, ResNet152V2.
 
-Web app is implemented using flask.
+Web app is implemented using flask. Code in app.py.
 
 
 
